@@ -1,0 +1,8 @@
+
+.coverage
+.scannerwork/
+Lib/
+Scripts/
+__pycache__/
+.pytest_cache/
+*.pyc
